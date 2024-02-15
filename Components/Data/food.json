@@ -1,0 +1,76 @@
+{
+  "Foods": [
+    {
+      "id": "1",
+      "Name": "Pizza",
+      "Price": "199",
+      "img": "/lunch2.jpg",
+      "Hotel": "Dominos pizza",
+      "km": "2.8km"
+    },
+    {
+      "id": "2",
+      "Name": "Fish",
+      "Price": "400",
+      "img": "/fish.jpg",
+      "Hotel": "Sangeetha Hotel",
+      "km": "1.1km"
+    },
+    {
+      "id": "3",
+      "Name": "Noodles",
+      "Price": "250",
+      "img": "/noodles.jpg",
+      "Hotel": "Pujabi Nation",
+      "km": "3.0km"
+    },
+    {
+      "id": "4",
+      "Name": "Hot chicken",
+      "Price": "550",
+      "img": "/lunch3.jpg",
+      "Hotel": "SS Hyderabad",
+      "km": "2.2km"
+    },
+    {
+      "id": "5",
+      "Name": "Cheese pasta",
+      "Price": "340",
+      "img": "/pasta.jpg",
+      "Hotel": "Palmshore",
+      "km": "2.0km"
+    },
+    {
+      "id": "6",
+      "Name": "Briyani",
+      "Price": "350",
+      "img": "/briyani.jpg",
+      "Hotel": "Buhari",
+      "km": "7km"
+    },
+    {
+      "id": "7",
+      "Name": "Veg full meals",
+      "Price": "250",
+      "img": "/lunch1.jpg",
+      "Hotel": "A2B",
+      "km": "3.0km"
+    },
+    {
+      "id": "8",
+      "Name": "Chapathi",
+      "Price": "25",
+      "img": "/lunch2.jpg",
+      "Hotel": "Pujabi Nation",
+      "km": "4.0km"
+    },
+    {
+      "id": "9",
+      "Name": "Samosa",
+      "Price": "20",
+      "img": "/samosa.jpg",
+      "Hotel": "Pujabi Nation",
+      "km": "4.0km"
+    }
+  ]
+}
